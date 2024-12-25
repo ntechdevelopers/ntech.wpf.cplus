@@ -1,0 +1,2 @@
+Checked: 
+- Path: ..\_External

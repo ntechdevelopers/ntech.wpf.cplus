@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B19F5-7F91-44AC-9E2C-573497BA5906}|Meteo\\Meteo.vcxproj|C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\Meteo\\Meteo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D7B19F5-7F91-44AC-9E2C-573497BA5906}|Meteo\\Meteo.vcxproj|solutionrelative:Meteo\\Meteo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BEB3CF-D4CB-4ACA-AF01-E2558D15FB3F}|WpfGuiClient\\WpfGuiClient.csproj|c:\\users\\vmo\\downloads\\cplxpinvoke\\cplxpinvoke\\wpfguiclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9BEB3CF-D4CB-4ACA-AF01-E2558D15FB3F}|WpfGuiClient\\WpfGuiClient.csproj|solutionrelative:wpfguiclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BEB3CF-D4CB-4ACA-AF01-E2558D15FB3F}|WpfGuiClient\\WpfGuiClient.csproj|c:\\users\\vmo\\downloads\\cplxpinvoke\\cplxpinvoke\\wpfguiclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BEB3CF-D4CB-4ACA-AF01-E2558D15FB3F}|WpfGuiClient\\WpfGuiClient.csproj|solutionrelative:wpfguiclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WpfGuiClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BEB3CF-D4CB-4ACA-AF01-E2558D15FB3F}|WpfGuiClient\\WpfGuiClient.csproj|c:\\users\\vmo\\downloads\\cplxpinvoke\\cplxpinvoke\\wpfguiclient\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\WpfGuiClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfGuiClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\WpfGuiClient\\MainWindow.xaml",
+              "RelativeToolTip": "WpfGuiClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T07:19:29.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WpfGuiClient",
+              "DocumentMoniker": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\WpfGuiClient\\WpfGuiClient.csproj",
+              "RelativeDocumentMoniker": "WpfGuiClient\\WpfGuiClient.csproj",
+              "ToolTip": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\WpfGuiClient\\WpfGuiClient.csproj",
+              "RelativeToolTip": "WpfGuiClient\\WpfGuiClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-25T07:18:56.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\WpfGuiClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfGuiClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\WpfGuiClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfGuiClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:18:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meteo.cpp",
+              "DocumentMoniker": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\Meteo\\Meteo.cpp",
+              "RelativeDocumentMoniker": "Meteo\\Meteo.cpp",
+              "ToolTip": "C:\\Users\\VMO\\Downloads\\CplxPInvoke\\CplxPInvoke\\Meteo\\Meteo.cpp",
+              "RelativeToolTip": "Meteo\\Meteo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T07:17:08.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

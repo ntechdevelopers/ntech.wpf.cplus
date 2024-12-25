@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="SampleWpfDataGrid.SampleDataGridUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:WpfToolkit="http://schemas.microsoft.com/wpf/2008/toolkit"
+    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="..\Themes\DataGrid.Generic.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <x:Array x:Key="Categories" Type="System:String">
+                <System:String>Mini</System:String>
+                <System:String>Cadet</System:String>
+                <System:String>Junior</System:String>
+                <System:String>Senior</System:String>
+                <System:String>Veteran</System:String>
+            </x:Array>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <WpfToolkit:DataGrid
+        ItemsSource="{Binding Path=PlayerAges}"
+        HorizontalScrollBarVisibility="Hidden" SelectionMode="Extended"
+        CanUserAddRows="False" CanUserDeleteRows="False"
+        CanUserResizeRows="False" CanUserSortColumns="False"
+        AutoGenerateColumns="False"
+        RowHeaderWidth="17" RowHeight="25">
+        <WpfToolkit:DataGrid.Columns>
+            <WpfToolkit:DataGridCheckBoxColumn
+                Header="Enabled" Width=".5*"
+                Binding="{Binding Path=IsEnabled}"/>
+            <WpfToolkit:DataGridTextColumn
+                Header="Player Name" Width="2*"
+                Binding="{Binding Path=Name}"/>
+            <WpfToolkit:DataGridTextColumn
+                Header="Age" Width="1*"
+                Binding="{Binding Path=Age}"/>
+            <WpfToolkit:DataGridTextColumn
+                Header="Deviation" Width="1*"
+                Binding="{Binding Path=Deviation}"/>
+            <WpfToolkit:DataGridComboBoxColumn
+                Header="Category" Width="1*"
+                ItemsSource="{DynamicResource Categories}"
+                SelectedValueBinding="{Binding Path=Category}"
+                TextBinding="{Binding Path=Category}" />
+            <WpfToolkit:DataGridTextColumn
+                Header="Deviation Chart" Width="1*"
+                Binding="{Binding Path=DeviationPercentage}"/>
+        </WpfToolkit:DataGrid.Columns>
+    </WpfToolkit:DataGrid>
+</UserControl>

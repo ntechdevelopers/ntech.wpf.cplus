@@ -1,0 +1,19 @@
+﻿<Window x:Class="SampleWpfDataGrid.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:SampleWpfDataGrid="clr-namespace:SampleWpfDataGrid"
+    Title="WPF Toolkit DataGrid sample application"
+    Width="860" Height="600">
+    <StackPanel>
+        <Label>WPF Toolkit Datagrid</Label>
+        <Grid>
+            <SampleWpfDataGrid:SampleDataGridUserControl/>
+        </Grid>
+
+        <Label>WPF Toolkit Custom Datagrid</Label>
+        <Grid>
+            <SampleWpfDataGrid:CustomDataGridUserControl/>
+        </Grid>
+    </StackPanel>
+    
+</Window>

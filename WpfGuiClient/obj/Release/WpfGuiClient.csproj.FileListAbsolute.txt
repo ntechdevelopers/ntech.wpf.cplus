@@ -1,0 +1,16 @@
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\bin\Release\Meteo.dll
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\bin\Release\WpfGuiClient.exe.config
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\bin\Release\WpfGuiClient.exe
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\bin\Release\WpfGuiClient.pdb
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient.csproj.AssemblyReference.cache
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\MainWindow.baml
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\MainWindow.g.cs
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\App.g.cs
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient_Content.g.cs
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient_MarkupCompile.cache
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient.g.resources
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient.Properties.Resources.resources
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient.csproj.GenerateResource.cache
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient.csproj.CoreCompileInputs.cache
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient.exe
+E:\Working\Ntechdevelopers\NtechPOC\Ntech.WPF.CPlus\WpfGuiClient\obj\Release\WpfGuiClient.pdb
